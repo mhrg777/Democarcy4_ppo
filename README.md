@@ -1,1 +1,1 @@
-this agents train a modle in democracy 4 with reinforcment learning 
+this agents train a model in democracy 4 with reinforcment learning 
